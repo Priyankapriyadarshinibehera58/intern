@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<h1>School Time Table</h1>
+<table border ="1px" align="center" bgcolor="grey">
+<tr>
+       <th> PERIOD </th>
+       <th> TIME </th>
+       <th>MONDAY</th>
+       <th> TUESDAY </th>
+       <th> WEDNESDAY </th>
+       <th> THURSDAY </th>
+       <th> FRIDAY </th>
+       <th> SATURDAY </th>
+</tr>
+<tr>
+       <td> 1st </td>
+       <td> 10.00-11.00 </td>
+       <td> chemistry </td>
+       <td> history </td>			
+       <td> PHYSICS </td>
+       <td> adaa </td>
+       <td> text </td>
+       <td rowspan="3"> practical </td>
+</tr>
+<tr>
+
+       <td> 2nd </td>
+       <td> 10.00-11.00 </td>
+       <td> chemistry </td>
+       <td> history </td>			
+       <td> PHYSICS </td>
+       <td> adaa </td>
+       <td> text </td>
+</tr>
+<tr align="centre">
+       <td> 3rd </td>
+       <td> 10.00-11.00 </td>
+       <td> chemistry </td>
+       <td> history </td>			
+       <td> PHYSICS </td>
+       <td> adaa </td>
+       <td> text </td>
+</tr>
+<tr align="center">
+      <td colspan="8"> LUNCH  BREAK </td>
+</tr>
+<tr>
+       <td> 4th </td>
+       <td> 10.00-11.00 </td>
+       <td> chemistry </td>
+       <td> history </td>			
+       <td> PHYSICS </td>
+       <td> adaa </td>
+       <td> text </td>
+       <td rowspan="2"> practical </td>
+</tr>
+<tr>
+       <td> 3rd </td>
+       <td> 10.00-11.00 </td>
+       <td> chemistry </td>
+       <td> history </td>			
+       <td> PHYSICS </td>
+       <td> adaa </td>
+       <td> text </td>
+</tr>
+</table>
+
